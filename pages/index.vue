@@ -11,6 +11,12 @@
 <script>
 
 export default {
-  
+  layout: 'menu',
 }
 </script>
+
+<style scoped>
+.flex{
+  margin-left: 20px;
+}
+</style>

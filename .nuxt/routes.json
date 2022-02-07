@@ -1,0 +1,32 @@
+[
+  {
+    "name": "hola",
+    "path": "/hola",
+    "component": "/Users/german/Documents/WEBPROJECTS/wasocial-2/wa-social2/pages/hola.vue",
+    "chunkName": "pages/hola"
+  },
+  {
+    "name": "home",
+    "path": "/home",
+    "component": "/Users/german/Documents/WEBPROJECTS/wasocial-2/wa-social2/pages/home.vue",
+    "chunkName": "pages/home"
+  },
+  {
+    "name": "auth-signin",
+    "path": "/auth/signin",
+    "component": "/Users/german/Documents/WEBPROJECTS/wasocial-2/wa-social2/pages/auth/signin.vue",
+    "chunkName": "pages/auth/signin"
+  },
+  {
+    "name": "auth-signout",
+    "path": "/auth/signout",
+    "component": "/Users/german/Documents/WEBPROJECTS/wasocial-2/wa-social2/pages/auth/signout.vue",
+    "chunkName": "pages/auth/signout"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/german/Documents/WEBPROJECTS/wasocial-2/wa-social2/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
